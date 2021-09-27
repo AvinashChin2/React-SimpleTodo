@@ -1,0 +1,23 @@
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+}
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-right: 20px;
+}
+.delete-button {
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #ff0b37;
+  margin-left: 20px;
+}
